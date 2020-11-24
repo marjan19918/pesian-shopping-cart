@@ -1,0 +1,29 @@
+:root{
+    --gray:#B7B8B7;
+    --nikel:#706c61;
+    --eggshell:#f8f4ec;
+    --pink:#e5446d;
+    --coral:#ff8966;
+}
+
+* {
+    box-sizing: border-box;
+    
+} 
+
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none; 
+    background-color: violet;
+       margin: 0;  
+      width: 100%;  
+        /* display: flex;  */
+        /* justify-content: space-around;   */
+      /* flex-direction: unset; */
+     
+    
+}
+
+li{list-style-type: none}
+a{text-decoration: none}

@@ -1,0 +1,9 @@
+.ho{
+    background-color: wheat;
+    width: 100%;
+   justify-content: space-around;
+    display: flex;
+   
+    flex-direction: row ;
+    
+} 

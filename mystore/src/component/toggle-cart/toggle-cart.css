@@ -1,0 +1,37 @@
+.togglemain{
+    position: absolute;
+    width:90px ;
+    height: 150px;
+    top: 150px;
+    left: 40px;
+    z-index: 5;
+    width: 250px;
+    height: 350px;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    background-color: black;
+    color: blanchedalmond;
+}
+.togglecartcont{
+    
+    display: flex;
+      flex-direction: column;   
+      padding: 5px;
+    
+   
+    
+}
+.togglefirstcon{
+    display: flex;
+    /* justify-content: space-between; */
+     flex-direction: row
+     
+  }
+
+.toggleimgcont img{
+    flex-direction: column;
+    width:120px;
+    height: 150px;
+    justify-content: space-around;
+    
+}

@@ -1,0 +1,41 @@
+.menuitem{
+   margin: 10px;
+     min-width: 400px; 
+    min-height: 400px;
+     display: flex;
+     
+     flex: 1 1 auto;    
+    overflow: hidden;
+     align-items: center; 
+    justify-content:center; 
+    outline: hidden;
+} 
+.menubackpic{
+    border:1px solid black;
+    margin: 10px,0;
+     display: flex; 
+    width: 80%;
+    height: 100%;
+    
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+}
+.menubackpic:hover{
+   transform: scale(1.1);
+   transition: transform 6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+
+}
+
+.content{
+    border: 3px solid black;
+    border-radius: 20px;
+    height: 70px;
+    display: flex;
+     justify-content: center;
+    align-items: center; 
+    position: absolute;
+}
+.large{
+    height: 600px;
+}

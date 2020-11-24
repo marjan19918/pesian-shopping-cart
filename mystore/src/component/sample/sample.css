@@ -1,0 +1,4 @@
+.samplecont{
+    display: flex;
+    flex-direction: row;
+}

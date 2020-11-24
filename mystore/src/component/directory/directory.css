@@ -1,0 +1,11 @@
+.directory{
+    width: 100%;
+    /* flex-direction: row; */
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+    margin-top: 0%;
+    justify-content: space-around;
+    background-color: chocolate;
+    
+}
